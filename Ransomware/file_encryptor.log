@@ -1,0 +1,16 @@
+2023-07-04 17:06:04,011 - INFO - Encrypting folder: test_file
+2023-07-04 17:06:04,011 - INFO - Encrypting file: test_file/.DS_Store
+2023-07-04 17:06:04,015 - INFO - Encrypting folder: test_file/Credit_Card_Info
+2023-07-04 17:06:04,015 - INFO - Encrypting file: test_file/Credit_Card_Info/Credit.txt
+2023-07-04 17:06:04,016 - INFO - Encrypting folder: test_file/shadow
+2023-07-04 17:06:04,016 - INFO - Encrypting file: test_file/shadow/passwd.txt
+2023-07-04 17:06:04,016 - INFO - Encrypting file: test_file/shadow/shadow.txt
+2023-07-04 17:06:04,017 - INFO - Encrypting file: test_file/test.txt
+2023-07-04 17:06:12,361 - INFO - Decrypting folder: test_file
+2023-07-04 17:06:12,362 - INFO - Decrypting file: test_file/.DS_Store
+2023-07-04 17:06:12,364 - INFO - Decrypting folder: test_file/Credit_Card_Info
+2023-07-04 17:06:12,364 - INFO - Decrypting file: test_file/Credit_Card_Info/Credit.txt
+2023-07-04 17:06:12,365 - INFO - Decrypting folder: test_file/shadow
+2023-07-04 17:06:12,365 - INFO - Decrypting file: test_file/shadow/passwd.txt
+2023-07-04 17:06:12,365 - INFO - Decrypting file: test_file/shadow/shadow.txt
+2023-07-04 17:06:12,366 - INFO - Decrypting file: test_file/test.txt
